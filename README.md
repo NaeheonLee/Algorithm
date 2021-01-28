@@ -31,7 +31,7 @@ Started from 01/18/2021
 > + 코드 포스 : https://codeforces.com/
 
 ### Status
- | Date | Problem(or Class whcih u took) |
+ | Date | Problem(or Class that you took) |
  |:--------|-------:|
  | 1/18 ~ 1/24 |  Ch.8 Python List, Lecture 1: Algorithmic Thinking, Peak Finding  |
  | 1/25 ~ 1/31 |    |
