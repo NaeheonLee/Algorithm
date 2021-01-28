@@ -8,13 +8,13 @@ Started from 01/18/2021
 > Review Data Structure and Algorithm to be a "REAL" Computer Engineering/ Data Scientist
 
 ### Plan
-> 1. Take online classes from edwith
+> Take online classes from edwith
   - Python Data Structure
   - MIT 6.006 Introduction to Algorithm
   - 데이터 구조 및 분석 : Linear Structure and Dynamic Programming
-> 2. 5 problems each week with easy algorithm problems 
-> 3. Read and practice 'Cracking the Coding Interview 189 Programming Questions and Solutions' by Gayle L. Macdowell
-> 4. Keep going until my muscle memories know how to code
+> 5 problems each week with easy algorithm problems 
+> Read and practice 'Cracking the Coding Interview 189 Programming Questions and Solutions' by Gayle L. Macdowell
+> Keep going until my muscle memories know how to code
 
 ### Language
 > Python
