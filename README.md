@@ -9,10 +9,10 @@ Started from 01/18/2021
 
 ### Plan
 > 1. Take online classes from edwith
-  - [Python Data Structure](https://www.edwith.org/introalgorithm)
-  - [MIT 6.006 Introduction to Algorithm](https://www.edwith.org/introalgorithm)
-    - [MIT open course ware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/#)
-  - [데이터 구조 및 분석 : Linear Structure and Dynamic Programming](https://www.edwith.org/datastructure-2019s#)
+    - [Python Data Structure](https://www.edwith.org/introalgorithm)
+    - [MIT 6.006 Introduction to Algorithm](https://www.edwith.org/introalgorithm)
+      - [MIT open course ware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/#)
+    - [데이터 구조 및 분석 : Linear Structure and Dynamic Programming](https://www.edwith.org/datastructure-2019s#)
 > 2. Five problems each week with easy algorithm problems 
 > 3. Read and practice 'Cracking the Coding Interview 189 Programming Questions and Solutions' by Gayle L. Macdowell
 > 4. Keep going until my muscle memories know how to code
