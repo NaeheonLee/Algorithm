@@ -11,7 +11,7 @@ Started from 01/18/2021
 > Take online classes from edwith
   - [Python Data Structure](https://www.edwith.org/introalgorithm)
   - [MIT 6.006 Introduction to Algorithm](https://www.edwith.org/introalgorithm)
-    - MIT Introduction to Algorithm : https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/#
+    - MIT open course ware : https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/#
   - [데이터 구조 및 분석 : Linear Structure and Dynamic Programming](https://www.edwith.org/datastructure-2019s#)
 > 5 problems each week with easy algorithm problems 
 > Read and practice 'Cracking the Coding Interview 189 Programming Questions and Solutions' by Gayle L. Macdowell
